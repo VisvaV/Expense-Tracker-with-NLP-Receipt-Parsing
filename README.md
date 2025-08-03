@@ -73,7 +73,3 @@ A comprehensive expense tracking application that uses Natural Language Processi
 ### Chatbot
 - POST `/api/chatbot/ask` - Send a query to the chatbot
 - DELETE `/api/chatbot/sessions/{sessionId}` - Delete a chat session
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
